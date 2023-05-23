@@ -1,0 +1,23 @@
+{
+  "name": "project50",
+  "version": "1.0.0",
+  "description": "A Tracking Website that helps those participating in project 50 stay on top of their daily tasks/goals all while staying in the loop with others participating.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshuamun97/Project50.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshuamun97/Project50/issues"
+  },
+  "homepage": "https://github.com/Joshuamun97/Project50#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
